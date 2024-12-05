@@ -1,0 +1,1 @@
+grillo fiqui doente o final de semana ent acabou afetando os exercios pricipalmente o tempo ent n cosegui entragar todos

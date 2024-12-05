@@ -1,0 +1,4 @@
+C:\Users\gusta\Downloads\Projects\C#\C#\obj\Debug\net9.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Downloads\Projects\C#\C#\obj\Debug\net9.0\C#.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\Projects\C#\C#\obj\Debug\net9.0\C#.AssemblyInfo.cs
+C:\Users\gusta\Downloads\Projects\C#\C#\obj\Debug\net9.0\C#.csproj.CoreCompileInputs.cache
